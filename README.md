@@ -6,23 +6,37 @@ For the purpose of managing the database, a simple C++ application was created w
 
 Since the entire "Databases II" course was in Croatian, the database was also created in Croatian, but below I will translate the name of each table within the database into English to make it easier for anyone who might take over this project:
 
-Kupac - Customer,
-Adresa - Address,
-Poslovnica - Branch,
-Režije - Expenses,
-Poslovođa - Manager,
-Zaposlenik - Employee,
-Proizvod - Product,
-Posuđeno - Borrowed,
-Prodano - Sold,
-Račun - Bill,
-Vraćene igre - Returned games,
-Stanje poslovnica Nintendo - Nintendo branch status,
-Stanje poslovnica PS4 - PS4 branch status,
-Stanje poslovnica Xbox- Xbox branch status,
-Narudžbenice - Orders,
+Kupac - Customer
 
-*each particular table is divided from the other with ",", each table originally in their names and contents don't have č,ž,š signs, names above are just for documentation purposes - original names are "rezije, poslovoda, vracene igre, etc."
+Adresa - Address
+
+Poslovnica - Branch
+
+Režije - Expenses
+
+Poslovođa - Manager
+
+Zaposlenik - Employee
+
+Proizvod - Product
+
+Posuđeno - Borrowed
+
+Prodano - Sold
+
+Račun - Bill
+
+Vraćene igre - Returned games
+
+Stanje poslovnica Nintendo - Nintendo branch status
+
+Stanje poslovnica PS4 - PS4 branch status
+
+Stanje poslovnica Xbox- Xbox branch status
+
+Narudžbenice - Orders
+
+*each table originally in their names and contents don't have č,ž,š signs, names above are just for documentation purposes - original names are "rezije, poslovoda, vracene igre, etc."
 
 Ultimately, our database consisted of:
 
